@@ -1,2 +1,6 @@
-okay Hello this is a file
+<<<<<<< HEAD
+Hello this is a file
+=======
+Hello this is a file
+>>>>>>> feature
 
